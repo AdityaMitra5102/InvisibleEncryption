@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Login
+comment1.params=psk
+comment1.target=void\ work(java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getPsk()
+numComments=3

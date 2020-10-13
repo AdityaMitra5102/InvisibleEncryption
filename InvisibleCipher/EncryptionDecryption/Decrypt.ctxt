@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Decrypt()
+comment1.params=
+comment1.target=void\ getDatabase()
+comment10.params=
+comment10.target=void\ work()
+comment2.params=k
+comment2.target=int\ search(java.lang.String)
+comment3.params=s
+comment3.target=java.lang.String\ makeVisible(java.lang.String)
+comment4.params=input
+comment4.target=java.lang.String\ makeLinear(java.lang.String)
+comment5.params=bin
+comment5.target=int\ toDecimal(java.lang.String)
+comment6.params=flname
+comment6.target=java.lang.String\ readFile(java.lang.String)
+comment7.params=
+comment7.target=void\ load()
+comment8.params=s
+comment8.target=java.lang.String\ process(java.lang.String)
+comment9.params=k
+comment9.target=java.lang.String\ Deprecate(java.lang.String)
+numComments=11
