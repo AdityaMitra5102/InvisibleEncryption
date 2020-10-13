@@ -42,6 +42,7 @@ class MenuGraphics extends EncryptionLayers implements ActionListener
     }
     public void actionPerformed(ActionEvent e)
     {
+        
         if(e.getSource()==b1)
         {
             new EncryptMenuGraphics();
