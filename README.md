@@ -4,4 +4,4 @@ The Screenshot image gives an insight about the algorithm.
 
 To run the program, download it as a zip, run the Main class. The default login password is '1234'. Don't increase the Layers of Encryption beyond 8, it makes the database initialization extremely slow.
 
-[](Screenshot.jpeg)
+![](Screenshot.jpeg)
